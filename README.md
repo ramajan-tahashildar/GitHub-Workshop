@@ -1,2 +1,3 @@
-# GitHub-Workshops-
+# GitHub-Workshops
+
 GitHub Workshops : GIT, Belagavi
